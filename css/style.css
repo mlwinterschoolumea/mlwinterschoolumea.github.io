@@ -1,1 +1,67 @@
 body{font-family:-apple-system,BlinkMacSystemFont,segoe ui,Roboto,Oxygen-Sans,Ubuntu,Cantarell,helvetica neue,sans-serif;line-height:1.6;display:flex;flex-direction:column;min-height:100vh;min-height:100svh;margin:0;padding:0}main{flex-grow:1}img{max-width:100%;border-radius:.2rem}table{border-collapse:collapse;width:100%}td,th{border:.1rem solid gray;padding:.3rem .5rem}pre{overflow-x:auto;border:.1rem solid #d3d3d3;padding:1rem}code{font-family:SFMono-Regular,Consolas,liberation mono,Menlo,Courier,monospace}kbd{border:.1rem solid #a9a9a9;border-radius:.2rem;margin:.1rem;padding:.15rem}kbd:has(kbd){padding:.3rem 0}.Banner{list-style:none;display:flex;flex-flow:row-reverse wrap-reverse;justify-content:space-between;margin:0;padding:0}.Banner-item:nth-child(1){order:2}.Banner-item:nth-child(2){order:1}.Banner-item--title{flex-grow:1}.Banner-link{font-size:1.25rem;color:#fff;padding:.5rem 1rem}.Heading{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:baseline}.Heading-title{margin:1.5rem .5rem 0 0}.Heading-link{color:inherit}.Tags{list-style:none;display:flex;flex-wrap:wrap;justify-content:center;margin:1.5rem 0;padding:0}.Tags-item{border-radius:.2rem;margin:.2rem;padding:0 .3rem}.Tags-link{color:#fff}.Divider{display:flex;justify-content:center}.Divider::after{content:"\2500\2500"}.Pagination{font-size:1.25rem;color:inherit}.Pagination--right{float:right}.Footer{text-align:center;margin:1rem 0}.u-wrapper{max-width:42rem;margin:auto}.u-padding{padding:0 1rem}.u-background{background:teal}.u-clickable{font-weight:700;text-decoration:none;display:inline-block}.u-noboosting{max-height:1000000px}
+
+h4{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.modal h5 {
+    margin-bottom: 0;
+}
+
+.modal p {
+    margin-top: 0;
+}
+
+/* The Modal (background) */
+.modal {
+display: none; /* Hidden by default */
+position: fixed; /* Stay in place */
+z-index: 1; /* Sit on top */
+left: 0;
+top: 0;
+width: 100%; /* Full width */
+height: 100%; /* Full height */
+overflow: auto; /* Enable scroll if needed */
+background-color: rgb(0,0,0); /* Fallback color */
+background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content/Box */
+.modal-content {
+background-color: #fefefe;
+margin: 15% auto; /* 15% from the top and centered */
+padding: 20px;
+border: 1px solid #888;
+width: 80%; /* Could be more or less, depending on screen size */
+max-width: 800px;
+}
+
+/* The Close Button */
+.close {
+color: #aaa;
+float: right;
+font-size: 28px;
+font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+color: black;
+text-decoration: none;
+cursor: pointer;
+} 
+
+.more-info{
+background: none!important;
+border: none;
+padding: 0!important;
+/*optional*/
+font-family: arial, sans-serif;
+/*input has OS specific font-family*/
+color: #069;
+text-decoration: underline;
+cursor: pointer;
+float: right;
+margin-top: 7px;
+}
