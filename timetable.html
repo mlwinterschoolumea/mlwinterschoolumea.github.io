@@ -255,8 +255,29 @@
                                 </div>
                             </td>
                             <td style="text-align: left">
-                                <h4>Lecture 6.2 - TBC</h4>
-                                <a href="https://www.universiteitleiden.nl/en/staffmembers/francien-dechesne#tab-1" target="_blank">Francien Dechesne</a> 
+                                <h4>Lecture 6.2 - Learning -as humans- about responsibility in Machine Learning</h4>
+                                <a href="https://www.universiteitleiden.nl/en/staffmembers/francien-dechesne#tab-1" target="_blank">Francien Dechesne</a>
+                                <button type="button" 
+                                    id="l6_2_btn"
+                                    class="more-info">
+                                    More information
+                                </button>
+                                <div class="modal" id="l6_2_modal">
+                                    <div class="modal-content">
+                                        <span class="close" id="l6_2_close">&times;</span>
+                                        <h4>Lecture 6.2 - Learning -as humans- about responsibility in Machine Learning</h4>
+                                        <a href="https://www.universiteitleiden.nl/en/staffmembers/francien-dechesne#tab-1" target="_blank">Francien Dechesne</a>
+                                        <h5>Abstract</h5>
+                                        <p>
+                                            This lecture explores the multifaceted notions of fairness and justice across ethics, technology, politics, and law, emphasizing their intersections and tensions in computational sciences and machine learning (ML). We look into differences in the conceptualizations of fairness and justice in different disciplines, and how they may implicitly or explicitly shape socio-technical systems – in particular ML systems. We will discuss the inherent tensions between idiosyncratic societal contexts, stable abstract ideals and their implementation into algorithmic frameworks. We connect this to a reflection on ML as a form of social experimentation beyond the lab, raising questions about accountability, power, and responsibilities for people involved in theory and research, development and deployment of ML systems.
+                                        </p>
+                                        <!-- <h5>Readings</h5>
+                                        <ul>
+                                            <li>...</li>
+                                            <li>...</li>
+                                        </ul> -->
+                                    </div>
+                                </div>
                             </td>
                             <!-- <td style="text-align: left"></td> -->
                         </tr>
@@ -354,6 +375,7 @@ window.onload = function(event){
     toggleModal('l4_modal', 'l4_btn','l4_close')
     toggleModal('l5_modal', 'l5_btn','l5_close')
     toggleModal('l6_modal', 'l6_btn','l6_close')
+    toggleModal('l6_2_modal', 'l6_2_btn','l6_2_close')
 }
 
 </script>
