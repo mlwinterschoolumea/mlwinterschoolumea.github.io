@@ -315,29 +315,40 @@
                             </td>
                             <td style="text-align: left">
                                 <h4>Lecture 8 - Problems and Pitfalls with Deep Learning</h4>
-                                Tommy Löfstedt
+                                <a href="https://www.umu.se/en/staff/tommy-lofstedt/" target="_blank">Tommy Löfstedt</a>
+                                <button type="button" 
+                                    id="l8_btn"
+                                    class="more-info">
+                                    More information
+                                </button>
+                                <div class="modal" id="l8_modal">
+                                    <div class="modal-content">
+                                        <span class="close" id="l8_close">&times;</span>
+                                        <h4>Lecture 8 - Problems and Pitfalls with Deep Learning</h4>
+                                        <a href="https://www.umu.se/en/staff/tommy-lofstedt/" target="_blank">Tommy Löfstedt</a>
+                                        <h5>Abstract</h5>
+                                        <p>
+                                            Machine learning has undergone a remarkable development in the last few years. This is especially clear in generative machine learning, where new and improved text and image generation models are being released virtually continuously. Many companies and also scientists are promising revolutionary solutions to virtually every concievable problem. But are these promises actually feasible? Turns out that they often are impossible to deliver on, have all kinds of biases, are racist/misogynist/xenophobic, and are even failing misserably---yet, the promises are still bought at ever growing rates. Much of the problem lies with the hype around "AI", that people are blinded by never ending remarkable new results and assume that success in one area must necessarily translate to other ares. Noone wants to slow down, risk to miss out, or seem like they are not up to date with the latest trends. These are societal problems but also scientific problems, since the hype is also ever present in research. In this talk we will discuss the hype around "AI", what we can do to spot false claims, and some thoughts on rigor in data analysis through machine learning.
+                                        </p>
+                                    </div>
+                                </div>
                             </td>
                             <!-- <td style="text-align: left"></td> -->
                         </tr>
                         <tr>
-                            <td style="text-align: left">14:30 - 14:45</td>
-                            <td style="text-align: left" colspan="2">Fika</td>
-                            <!-- <td style="text-align: left"></td> -->
-                        </tr>
-                        <tr>
-                            <td style="text-align: left">14:45 - 15:45</td>
-                            <td style="text-align: left" colspan="2">
-                                <h4>Closing lecture</h4>
-                            </td>
-                            <!-- <td style="text-align: left"></td> -->
-                        </tr>
-                        <tr>
-                            <td style="text-align: left">15:45 - 16:15</td>
-                            <td style="text-align: left" colspan="2">Summary and closing</td>
+                            <td style="text-align: left">14:30 - 15:00</td>
+                            <td style="text-align: left" colspan="2">Summary, closing and fika</td>
                             <!-- <td style="text-align: left"></td> -->
                         </tr>
                     </tbody>
                 </table>
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
             </div>
         </div>
     </main>
@@ -381,6 +392,7 @@ window.onload = function(event){
     toggleModal('l5_modal', 'l5_btn','l5_close')
     toggleModal('l6_modal', 'l6_btn','l6_close')
     toggleModal('l6_2_modal', 'l6_2_btn','l6_2_close')
+    toggleModal('l8_modal', 'l8_btn','l8_close')
 }
 
 </script>
