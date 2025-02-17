@@ -299,7 +299,23 @@
                             </td>
                             <td style="text-align: left">
                                 <h4>Lecture 7.2 - Fairness</h4>
-                                Lili Jiang
+                                <a href="https://www.umu.se/en/staff/lili-jiang/" target="_blank">Lili Jiang</a>
+                                <button type="button" 
+                                    id="l7_2_btn"
+                                    class="more-info">
+                                    More information
+                                </button>
+                                <div class="modal" id="l7_2_modal">
+                                    <div class="modal-content">
+                                        <span class="close" id="l7_2_close">&times;</span>
+                                        <h4>Lecture 7.2 - Fairness</h4>
+                                        <a href="https://www.umu.se/en/staff/lili-jiang/" target="_blank">Lili Jiang</a>
+                                        <h5>Abstract</h5>
+                                        <p>
+                                            Fairness is a critical consideration in responsible AI decision-making systems. This presentation introduces fairness concepts, exploring definitions, metrics, and case studies on bias throughout the AI system’s life cycle—from input data and modeling to output. We will discuss common fairness criteria, highlighting their trade-offs and real-world implications. Furthermore, we will introduce project AEQUITAS, which aims to develop a framework to identify and mitigate various manifestations of bias and unfairness in AI.
+                                        </p>
+                                    </div>
+                                </div>
                             </td>
                             <!-- <td style="text-align: left"></td> -->
                         </tr>
@@ -392,6 +408,7 @@ window.onload = function(event){
     toggleModal('l5_modal', 'l5_btn','l5_close')
     toggleModal('l6_modal', 'l6_btn','l6_close')
     toggleModal('l6_2_modal', 'l6_2_btn','l6_2_close')
+    toggleModal('l7_2_modal', 'l7_2_btn','l7_2_close')
     toggleModal('l8_modal', 'l8_btn','l8_close')
 }
 
