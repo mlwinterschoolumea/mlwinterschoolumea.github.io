@@ -56,17 +56,17 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <td style="text-align: left">9:00 - 10:00</td>
+                            <td style="text-align: left">9:00 - 9:45</td>
                             <td style="text-align: left">Welcome Fika</td>
                             <!-- <td style="text-align: left"></td> -->
                         </tr>
                         <tr>
-                            <td style="text-align: left">10:00 - 10:15</td>
+                            <td style="text-align: left">9:45 - 10:00</td>
                             <td style="text-align: left">Practical information</td>
                             <!-- <td style="text-align: left"></td> -->
                         </tr>
                         <tr>
-                            <td style="text-align: left">10:15 - 11:15</td>
+                            <td style="text-align: left">10:00 - 11:15</td>
                             <td style="text-align: left">
                                 <h4>Lecture 1 - Responsible AI & ML</h4>
                                 Virginia Dignum & Monowar Bhuyan
@@ -78,6 +78,22 @@
                             <td style="text-align: left">
                                 <h4>Lecture 2 - Alignment with what values?</h4>
                                 <a href="https://www.umu.se/en/staff/kalle-grill/" target="_blank">Kalle Grill</a>
+                                <button type="button" 
+                                    id="l2_btn"
+                                    class="more-info">
+                                    More information
+                                </button>
+                                <div class="modal" id="l2_modal">
+                                    <div class="modal-content">
+                                        <span class="close" id="l2_close">&times;</span>
+                                        <h4>Lecture 2 - Alignment with what values?</h4>
+                                        <a href="https://www.umu.se/en/staff/kalle-grill/" target="_blank">Kalle Grill</a>
+                                        <h5>Abstract</h5>
+                                        <p>
+                                            When we talk of value alignment, what do we mean? We want to avoid technology that is obviously destructive and harmful to all of us. But aside from that, what interests and values should technology be aligned with exactly? And whose values? 
+                                        </p>
+                                    </div>
+                                </div>
                             </td>
                             <!-- <td style="text-align: left"></td> -->
                         </tr>
@@ -405,6 +421,7 @@ function toggleModal(id, btn_id, close_id){
 }
 
 window.onload = function(event){
+    toggleModal('l2_modal', 'l2_btn','l2_close')
     toggleModal('l4_modal', 'l4_btn','l4_close')
     toggleModal('l5_modal', 'l5_btn','l5_close')
     toggleModal('l6_modal', 'l6_btn','l6_close')
