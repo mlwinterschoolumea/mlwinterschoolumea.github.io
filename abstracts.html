@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Lecture Abstract</title>
+
+<style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f9;
+}
+
+/* Main container */
+.abstract-container {
+    max-width: 800px;
+    margin: 80px auto;
+    background: white;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 0 8px 25px rgba(0,0,0,0.08);
+}
+
+/* Title */
+.abstract-title {
+    font-size: 28px;
+    font-weight: bold;
+    color: #2c3e50;
+    margin-bottom: 10px;
+}
+
+/* Presenter */
+.abstract-speaker {
+    font-size: 18px;
+    color: #7f8c8d;
+    margin-bottom: 30px;
+}
+
+/* Abstract text */
+.abstract-text {
+    font-size: 17px;
+    line-height: 1.7;
+    color: #333;
+    text-align: justify;
+}
+
+/* Back button */
+.back-btn {
+    display: inline-block;
+    margin-top: 40px;
+    padding: 8px 16px;
+    background-color: #2c3e50;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.back-btn:hover {
+    background-color: #1a252f;
+}
+
+.abstract {
+    display: none;
+}
+</style>
+</head>
+
+<body>
+
+<div class="abstract-container">
+
+    <!-- Lecture 1 -->
+    <div id="lecture1" class="abstract">
+        <div class="abstract-title">Responsible AI & ML</div>
+        <div class="abstract-speaker">Virginia Dignum & Monowar Bhuyan</div>
+        <div class="abstract-text">
+            Abstract text for Lecture 1 goes here.
+        </div>
+    </div>
+
+    <!-- Lecture 2 -->
+    <div id="lecture2" class="abstract">
+        <div class="abstract-title">Alignment with what values?</div>
+        <div class="abstract-speaker">Kalle Grill</div>
+        <div class="abstract-text">
+            Abstract text for Lecture 2 goes here.
+        </div>
+    </div>
+
+    <!-- Training 1 -->
+    <div id="training1" class="abstract">
+        <div class="abstract-title">RAI Themis 2.0 (Game)</div>
+        <div class="abstract-speaker">Mattias Brännström & Themis Dimitra Xanthopoulou</div>
+        <div class="abstract-text">
+            Abstract text for Training 1 goes here.
+        </div>
+    </div>
+
+    <!-- Lecture 3 -->
+    <div id="lecture3" class="abstract">
+        <div class="abstract-title">Between legal and (non) responsible AI</div>
+        <div class="abstract-speaker">Lena Enqvist</div>
+        <div class="abstract-text">
+            Abstract text for Lecture 3 goes here.
+        </div>
+    </div>
+
+    <!-- Lecture 4 -->
+    <div id="lecture4" class="abstract">
+        <div class="abstract-title">Misinformation</div>
+        <div class="abstract-speaker">Nina Khairova</div>
+        <div class="abstract-text">
+            Abstract text for Lecture 4 goes here.
+        </div>
+    </div>
+
+    <!-- Lecture 5 -->
+    <div id="lecture5" class="abstract">
+        <div class="abstract-title">Fairness</div>
+        <div class="abstract-speaker">Lili Jiang</div>
+        <div class="abstract-text">
+            Abstract text for Lecture 5 goes here.
+        </div>
+    </div>
+
+    <!-- Training 2 -->
+    <div id="training2" class="abstract">
+        <div class="abstract-title">Q0 Assessment</div>
+        <div class="abstract-speaker">
+            Tatjana Titareva<br>
+            Additional presenters: Petter Ericson, Rachele Carli, Viktoriia Movchan, Bertilla Fabris
+        </div>
+        <div class="abstract-text">
+            Abstract text for Training 2 goes here.
+        </div>
+    </div>
+
+    <!-- Lecture 6 -->
+    <div id="lecture6" class="abstract">
+        <div class="abstract-title">Explainable AI</div>
+        <div class="abstract-speaker">Leila Methnani</div>
+        <div class="abstract-text">
+            Abstract text for Lecture 6 goes here.
+        </div>
+    </div>
+
+    <!-- Lecture 7 -->
+    <div id="lecture7" class="abstract">
+        <div class="abstract-title">Data privacy</div>
+        <div class="abstract-speaker">Vicenc Torra</div>
+        <div class="abstract-text">
+            Abstract text for Lecture 7 goes here.
+        </div>
+    </div>
+
+    <a href="timetable.html" class="back-btn">← Back to Timetable</a>
+
+</div>
+
+<script>
+window.onload = function() {
+    const hash = window.location.hash.substring(1);
+
+    if (hash) {
+        const element = document.getElementById(hash);
+        if (element) {
+            element.style.display = "block";
+        }
+    }
+}
+</script>
+
+</body>
+</html>
