@@ -30,13 +30,20 @@ under [Schedule](schedule.html).
 
 **4th December 2025: Registration open!**
 (Read the instructions carefully before you start registering)
-**Non-WASP participants**: Register for the Winter School via [Link](form.html).
-**WASP-HS students**: Participants register via [Link](form.html).
-**WASP students**: Register using the personal registration links sent to them in the invitation for the spring semester
+**Non-WASP participants**: Register for the Winter School via [Link](form.html). **WASP-HS students**: Participants
+register via [Link](form.html). **WASP students**: Register using the personal registration links sent to them in the
+invitation for the spring semester
 courses.
 Deadline for registration: **10th February 2026**
 
-[![](images/umu-logo-SE.png)](https://www.umu.se/en/) [![](images/ai-policy-1.png)](https://aipolicylab.se/) [![](images/wasp-logo.png)](https://wasp-sweden.org/) [![](images/WASP-HS_logotype_blue-3.png)](https://wasp-hs.org/)
+<!-- [![](images/umu-logo-SE.png)](https://www.umu.se/en/) [![](images/ai-policy-1.png)](https://aipolicylab.se/) [![](images/wasp-logo.png)](https://wasp-sweden.org/) [![](images/WASP-HS_logotype_blue-3.png)](https://wasp-hs.org/) -->
+
+<div style="display:flex;align-items:center;justify-content: space-around;flex-wrap:wrap;height:500px">
+  <a href="https://www.umu.se/en/" target="_blank"><img src="images/umu-logo-SE.png" width="250px"></a>
+  <a href="https://aipolicylab.se/" target="_blank"><img src="images/ai-policy-1.png" width="250px"></a>
+  <a href="https://wasp-sweden.org/" target="_blank"><img src="images/wasp-logo.png" width="250px"></a>
+  <a href="https://wasp-hs.org/" target="_blank"><img src="images/WASP-HS_logotype_blue-3.png" width="250px"></a>
+</div>
 
 
 # Registration fee
