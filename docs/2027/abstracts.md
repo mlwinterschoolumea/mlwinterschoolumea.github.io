@@ -84,6 +84,6 @@ information are often found in the data-driven model. In this talk I will explai
 privacy. For example, how we can measure information leakage in a model by means of membership inference attacks, and
 how we can protect information using protection mechanisms that implement privacy models.
 
-[← Back to Timetable](timetable.html)
+[← Back to Schedule](schedule.html)
 
 
