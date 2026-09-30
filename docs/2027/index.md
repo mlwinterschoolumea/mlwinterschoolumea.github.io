@@ -9,7 +9,10 @@ Winter School on ELSAI and AS
 
 **07–09 April, 2027**
 
-We are pleased to announce the Winter School on Ethical, Legal, and Societal (ELS) aspects of Artificial Intelligence (AI) and Autonomous Systems (AS) 2027 at Umeå University, Sweden. At this Winter School, we will offer exciting lectures in the field of Ethical, Legal, and Societal aspects of AI and Autonomous Systems as well as helpful hands-on multi-disciplinary and complementary training. The whole event will be accompanied by a poster session and a social program, which will provide opportunities for networking and professional exchange. We look forward to welcoming you to Umeå in April 2027!
+We are pleased to announce the Winter School on Ethical, Legal, and Societal (ELS) aspects of Artificial Intelligence (AI) and Autonomous Systems (AS) 2027 at Umeå University, Sweden.
+At this Winter School, we will offer exciting lectures in the field of Ethical, Legal, and Societal aspects of AI and Autonomous Systems as well as helpful hands-on multi-disciplinary and complementary training.
+The whole event will be accompanied by a poster session and a social program, which will provide opportunities for networking and professional exchange.
+We look forward to welcoming you to Umeå in April 2027!
 
 _Monowar Bhuyan, Julian Mendez, and Virginia Dignum_
 
@@ -20,8 +23,7 @@ _Monowar Bhuyan, Julian Mendez, and Virginia Dignum_
 
 # Status Updates on the Winter School
 
-**1 November 2026:** The preliminary program of the Winter School is published and can be viewed
-under [Schedule](schedule.html).
+**1 November 2026:** The preliminary program of the Winter School is published and can be viewed under [Schedule](schedule.html).
 
 **1 December 2026: Registration opens**
 (Read the instructions carefully before you register)
@@ -55,7 +57,10 @@ The registration fee will be utilized to cover the logistics and offer meals dur
 
 # Arrival at the venue
 
-The Winter School on ELSAI and AS will take place at Umeå University: 07–09 April 2027 in Hörsal HUM.D.230 - Hohaj. This is located close to the Universum Bus stop. Several parking spots of the university are located close to the Universum. By public transport, the best way to reach the university from the city center is to take bus lines 2, 5, 8 or 9 to the bus stop _Universum_, or bus 1 to the bus stop _Samhällsvetarhuset_. In both cases, the travel time is about 10 minutes. If you prefer to walk, then it takes around 35 minutes.
+The Winter School on ELSAI and AS will take place at Umeå University: 07–09 April 2027 in Hörsal HUM.D.230 - Hohaj.
+This is located close to the Universum Bus stop. Several parking spots of the university are located close to the Universum.
+By public transport, the best way to reach the university from the city center is to take bus lines 2, 5, 8 or 9 to the bus stop _Universum_, or bus 1 to the bus stop _Samhällsvetarhuset_.
+In both cases, the travel time is about 10 minutes. If you prefer to walk, then it takes around 35 minutes.
 
 The Poster Session will be in MIT Ljusgården / MIT-Place, which is in the MIT Building, close to the bus stop _Universum_.
 
@@ -74,8 +79,9 @@ Hörsal HUM.D.230 - Hohaj
 
 # Accommodation
 
-You may find hotels for recommendation and booking links below. Please visit the links to finalize your bookings
-directly with the hotels. Note that Umeå University has no booking agreements with any of the hotels.
+You may find hotels for recommendation and booking links below.
+Please visit the links to finalize your bookings directly with the hotels.
+Note that Umeå University has no booking agreements with any of the hotels.
 
 - [Comfort Hotel Umeå City](https://www.choicehotels.com/sweden/umea/comfort-inn-hotels/se135)
 - [Clarion Hotel Umeå](https://www.choicehotels.com/sweden/umea/clarion-hotels/se142)
@@ -86,7 +92,9 @@ directly with the hotels. Note that Umeå University has no booking agreements w
 
 # Submission of poster
 
-If you are interested in submitting a poster, it must be relevant to the School theme. To confirm its relevance, please submit an abstract (maximum **1000 characters**) before **28 February 2027**, using the [online submission form](form.html). Information on how to upload your poster will follow in due time. This will help us estimate how many posters will be presented at the poster session.
+If you are interested in submitting a poster, it must be relevant to the School theme. To confirm its relevance, please submit an abstract (maximum **1000 characters**) before **28 February 2027**, using the [online submission form](form.html).
+Information on how to upload your poster will follow in due time.
+This will help us estimate how many posters will be presented at the poster session.
 
 **Important:** Please make sure that you bring a printed poster in **size A1** for the event itself.
 
