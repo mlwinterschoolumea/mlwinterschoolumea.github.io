@@ -1,11 +1,11 @@
 Winter School on ELSAI and AS
 
 * [Winter School on ELSAI and AS](index.html)
-* [Register now](register.html)
-* [Timetable](timetable.html)
+* [Register now](form.html)
+* [Schedule](schedule.html)
 
 
-# Timetable
+# Schedule
 
 
 ## Winter School on Ethical, Legal, and Societal (ELS) aspects of AI and AS, 2026
