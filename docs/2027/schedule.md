@@ -1,39 +1,39 @@
 Winter School on ELSAI and AS
 
-* [Winter School on ELSAI and AS](index.html)
-* [Register now](form.html)
-* [Schedule](schedule.html)
+- [Winter School on ELSAI and AS](index.html)
+- [Register now](form.html)
+- [Schedule](schedule.html)
 
 
 # Schedule
 
 
-## Winter School on Ethical, Legal, and Societal (ELS) aspects of AI and AS, 2026
+## Winter School on Ethical, Legal, and Societal (ELS) aspects of AI and AS, 2027
 
-**Umeå, March 11–13, 2026**
-**Venue:** March 11-12 at Hörsal UB.A.210 - Lindellhallen 1
-March 13 at BIO.E.203 - Aula Biologica
-
-
-### Programme
+- **Umeå, 07–09 April 2027**
+- **Venue:** 07–09 April at Hörsal HUM.D.230 - Hohaj,
+  Poster Session at MIT Ljusgården / MIT place
 
 
-### Day 1 — March 11, 2026
+### Program
+
+
+### Day 1 — 07 April 2027
 
 | Time        | Topics                                                                                        | Remarks                              |
 |-------------|-----------------------------------------------------------------------------------------------|--------------------------------------|
 | 11:30–12:00 | Registration and Welcome                                                                      |                                      |
-|             | Lunch 12:00–13:00 (Universum)                                                                 |                                      |
+|             | Lunch 12:00–13:00                                                                             |                                      |
 | 13:00–13:10 | Welcome by Virginia Dignum and Monowar Bhuyan  <br>**Introduction and Practicalities**        |                                      |
 | 13:10–14:00 | Lecture 1: Virginia Dignum  <br>**AI: Responsibility in a Changing World**                    | [Slides](slides/Lecture1.pdf)        |
 | 14:00–15:30 | Lecture 2: Kalle Grill  <br>**Alignment with what values?**                                   | [Slides](slides/Lecture2.pdf)        |
 |             | Coffee Break 15:30–16:00 (Outside Lindellhallen 1)                                            |                                      |
 | 16:00–17:15 | Training 1: Mattias Brännström and Themis Dimitra Xanthopoulou  <br>**RAI Themis 2.0 (Game)** | [Abstract](abstracts.html#training1) |
 
-**Joint dinner and networking:** 18:30–21:00 at **Orangeriet**, Umeå City Centre
+**Joint dinner and networking:** 18:30–21:00 at **Orangeriet**, Umeå City Center
 
 
-### Day 2 — March 12, 2026
+### Day 2 — 08 April 2027
 
 | Time        | Topics                                                                                                                                                             | Remarks                              |
 |-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
@@ -52,7 +52,7 @@ March 13 at BIO.E.203 - Aula Biologica
 Aurora chase: 18:30–21:00 (optional)
 
 
-### Day 3 — March 13, 2026
+### Day 3 — 09 April 2027
 
 | Time        | Topics                                                                    | Remarks                       |
 |-------------|---------------------------------------------------------------------------|-------------------------------|
@@ -61,6 +61,6 @@ Aurora chase: 18:30–21:00 (optional)
 |             | Coffee Break 9:45–10:15 (Outside Aula Biologica)                          |                               |
 | 10:15–11:45 | Lecture 8: Vicenc Torra  <br>**Data privacy**                             | [Slides](slides/Lecture8.pdf) |
 | 11:45–12:00 | Summary and Closing                                                       |                               |
-|             | Lunch Break 12:00–13:00 (Universum)                                       |                               |
+|             | Lunch Break 12:00–13:00                                                   |                               |
 
 
